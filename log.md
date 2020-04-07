@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: April 06, 2020
 
+**Today's Progress**: Setup Android Studio with a new project and created a new Github repo. Added an image through assets and changed the main color.
+
+**Thoughts:** It took everything in me to start this. I've delayed for months on the notion that I didn't want to open-source my code for critism, and what if my code was *so good* I wanted to close-source what I've done? Well, I threw both of those out of the window and decided to go ahead and get this thing going. I mean, right now is as great of a time for me as any. So with that, I'm on my way to a full-fledged Flutter app. Bringing in my love of my current favorite game, we shall see where this leads. I did find that if Android Studio is telling you Flutter is incompatible, there is probably an update for it. Oye. Off to a good start!
+
+**Link to work:** [Github repo](https://github.com/MsBohemianBits/ac_field_guide)
+
+<!--
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
@@ -28,3 +34,4 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+-->
