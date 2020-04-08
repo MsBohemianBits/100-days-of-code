@@ -8,6 +8,14 @@
 
 **Link to work:** [Github repo](https://github.com/MsBohemianBits/ac_field_guide)
 
+### Day 2: April 07, 2020
+
+**Today's Progress**: Dart exorcism exercise, reviewed lists and casting. Began implementing list and sliverappbar as well as adjusted the main app bar. Reviewed slivers and flexible space widgets. Started looking into unit testing for Flutter and Dart.
+
+**Thoughts:** I found Flutter tests look just like Mocha; big win. I plan to incoporate those a little later. Not sure on Dart itself, but I haven't even though of what I'll need on that side for it to matter right now. Still having a bit of trouble reading the documentation. That and understanding the levels to which specific widgets apply.
+
+**Link to work:** [Github repo](https://github.com/MsBohemianBits/ac_field_guide)
+
 <!--
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
