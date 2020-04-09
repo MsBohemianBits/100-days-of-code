@@ -16,6 +16,14 @@
 
 **Link to work:** [Github repo](https://github.com/MsBohemianBits/ac_field_guide)
 
+### Day 3: April 07, 2020
+
+**Today's Progress**: More work with Sliver lists; Completed Dart exercism exorcise.
+
+**Thoughts:** I feel like I'm learning a lot already, but soo far behind. Just limiting the list was driving me crazy. ChildCount. Where? Ugh. Realized (thank goodness for the Internet) that I could return early from the closure (if that is what it's called in this case). Either way, that took up a bulk of my time. I read a lot more about Slivers which helped with my exploration of the documentation. 
+
+**Link to work:** [Github repo](https://github.com/MsBohemianBits/ac_field_guide)
+
 <!--
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
