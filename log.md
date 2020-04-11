@@ -26,6 +26,14 @@
 
 **Thoughts:** Goodness. Who know enumerating would be such a pain. At first I though, how will this take me an hour? Again, understanding widgets is still yet out of my grasp. I'm getting there, though. Hooray! Very happy that so much syntax is the same and grateful for the Flutter documentation (it's even becoming less Greek). Just four days in and so much learned. 
 
+### Day 5: April 09, 2020
+
+**Today's Progress**: Optimized some of the code; Added an alarm intent using the android_intent plugin and a calender event using a calendar plugin; Worked on exercise for Dart. Begin planning database.
+
+**Thoughts:** Not sure yet how to do an equivelent intent call for iOS. I hope there is one. Regardless, I like that I can create intents pretty similar to Android/Kotlin. I thought about using an intent for the todo feature, but that's easy enough, and I want to customize it more to the animals in AC. I'm digging Flutter, but feel I should have gone with Kotlin/Android. 
+
+Okay, and moments later realized a strength in Flutter with all of the plugins. Found a plugin to cross-platform add a calendar event. Huzzah. 
+
 <!--
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
