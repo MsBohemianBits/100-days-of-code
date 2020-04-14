@@ -43,7 +43,9 @@ Played around with trying to get an tabbed app bar nestedscrollview, but after m
 
 ### Day 7: April 13, 2020
 
-**Today's Progress**: No coding on Sundays (4/12). Low-tech! For Today, 
+**Today's Progress**: No coding on Sundays (4/12). Low-tech! For Today, diagrammed two tables using Dot and Graphviz. Created two normalized tables with SQLite. Setup plan for the week. 
+
+**Thoughts:** Learned how to run Flutter's dart from the terminal quickly for testing. SQLite is nice, but limited coming from major RDBMS. However, while I usually like the verbosity of languages like Java, I definitely appreciate the terseness SQLite affords. Also read up on SQLite best practices. 
 
 <!--
 
