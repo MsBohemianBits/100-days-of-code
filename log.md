@@ -47,6 +47,12 @@ Played around with trying to get an tabbed app bar nestedscrollview, but after m
 
 **Thoughts:** Learned how to run Flutter's dart from the terminal quickly for testing. SQLite is nice, but limited coming from major RDBMS. However, while I usually like the verbosity of languages like Java, I definitely appreciate the terseness SQLite affords. Also read up on SQLite best practices. 
 
+### Day 8/9: April 14/15, 2020
+
+**Today's Progress**: SQLite
+
+**Thoughts:** Another day with SQLite. Found a way to simplify to my understanding. Hoping to be past this tomorrow. It's not extremely difficult usually, but for some reason, this was just out of my grasp.
+
 <!--
 
 ### Day 5: April 09, 2020
